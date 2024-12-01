@@ -4,18 +4,18 @@ implemented by dynamic arrays (vector) & text file as database to save, modify o
 
 the project includes following concepts in c++:
 
- object oriented programming 
+1-> object oriented programming 
  
- inheritance
+2-> inheritance
  
- encapsulation
+3-> encapsulation
 
- exception handling
+4-> exception handling
 
- dynamic arrays
+5-> dynamic arrays
 
- work with text files
+6-> work with text files
 
- eader files
+7-> header files
 
- you can see class diagram to check the main structure of program.
+** notice: you can see class diagram to check the main structure of program.
