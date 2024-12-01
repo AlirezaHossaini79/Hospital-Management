@@ -5,11 +5,11 @@ implemented by dynamic arrays (vector) & text file as database to save, modify o
 the project includes following concepts in c++:
 
  object oriented programming 
- inheritance
- encapsulation
- exception handling
- dynamic arrays
- work with text files
- header files
+ \ninheritance
+ \nencapsulation
+ \nexception handling
+ \ndynamic arrays
+ \nwork with text files
+ \nheader files
 
  you can see class diagram to check the main structure of program.
